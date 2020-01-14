@@ -2,6 +2,10 @@
 LSHash
 ======
 
+!!! WARNING !!!
+===============
+This is the fork I just use to experiment in order to understand the index/query functions of LSM.
+
 :Version: 0.0.4dev
 
 A fast Python implementation of locality sensitive hashing with persistance
